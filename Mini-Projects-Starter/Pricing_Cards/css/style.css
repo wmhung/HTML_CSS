@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto Condensed', sans-serrif;
+}
+
+@media(min-width: 900px) {
+    .container {
+        width: 900px;
+    }
+}
